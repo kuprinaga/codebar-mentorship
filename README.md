@@ -1,5 +1,5 @@
 # codebar-mentorship
-codebar Helsinki is looking into a mentorship program for people who'd like to change careers and join tech industry. Do you think something is missing from the program?  Just edit it!
+***codebar Helsinki is looking into a mentorship program for people who'd like to change careers and join tech industry. Do you think something is missing from the program?  Just edit it!***
 
 **Challenge**: codebar members often ask questions related to tech companies overall, recruitment process, ask opinion of "what should I do/learn", "how can I utilise my existing background" and so on
 
